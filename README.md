@@ -1,7 +1,4 @@
 ### Hi, I am Sergio Salgado! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Desarrollador autodidacta, con cariño a React,
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCW-QJmaiLStIQddmW57GWiQ?label=Visitas%20a%20mi%20canal&style=social)
-
 
 <!--
 **Pablosal/Pablosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
