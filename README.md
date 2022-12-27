@@ -4,7 +4,9 @@
 
 ___
 ### Watch My Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=pablosal&theme=gruvbox&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### The more used.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablosal&layout=compact)](https://github.com/Pablosal/github-readme-stats)
 ___
 
@@ -23,8 +25,8 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-___
 
+***
 #### 📫 Find me thru here:
 
 <div id="badges">
