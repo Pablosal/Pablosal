@@ -1,14 +1,10 @@
 # Hi, I am Pablo Salgado.
 
-### Javascript/Typescript Enjoyer ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">.
+#### Javascript/Typescript Enjoyer focusing on creating web apps following best practices to continue honing my skills ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">.
 
-___
-### Watch My Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pablosal&theme=gruvbox&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-### The more used.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablosal&layout=compact)](https://github.com/Pablosal/github-readme-stats)
-___
+### My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=pablosal&theme=gruvbox&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### 🌱 Currently learning the path of the [Full Stack](https://frontendmasters.com/learn/fullstack/) to add to my skills
 
