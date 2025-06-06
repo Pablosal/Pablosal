@@ -3,8 +3,7 @@
 #### Javascript/Typescript Enjoyer focusing on creating web apps following best practices to continue honing my skills ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablosal&layout=compact)](https://github.com/Pablosal/github-readme-stats)
-### My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=pablosal&theme=gruvbox&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 ### 🌱 Currently learning the path of the [Full Stack](https://frontendmasters.com/learn/fullstack/) to add to my skills
 
@@ -23,10 +22,4 @@
 </div>
 
 ***
-#### 📫 Find me thru here:
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/sergio-pablo-salgado/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
